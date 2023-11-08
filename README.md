@@ -3,11 +3,18 @@
 This program calculates the distance between a reference user and other users based on their geographical positions (latitude, longitude, and altitude). It then identifies the closest user to the reference user.
 
 ## Table of content
-# Input
-# Output
-# How to use
-# Author 
+- [Introduction](#introduction)
+- [Input](#input)
+- [Output](#output)
+- [How to Use](#how-to-use)
+- [Note](#note)
+- [Author](#author)
 
+  
+
+## Introduction
+
+This User Distance Calculator is a C program designed to determine the closest user to a reference user based on their geographical coordinates. It calculates the distances using latitude, longitude, and altitude, providing valuable insights into proximity.
 
 ## Input
 
@@ -42,13 +49,18 @@ The program produces the following output:
     
 ## How to Use
 
-1. Run the program and follow the on-screen instructions to provide user details.
-2. Enter the path of an input text file with data for other users.
-3. The program calculates distances and displays the results.
+1. Compile the program using your preferred C environment.
+2. Run the compiled program.
+3. Follow the on-screen instructions to provide user details for the reference user.
+4. Enter the path to an input text file that contains the data for other users.
+5. The program will calculate distances and display the results.
 
-## Note: Make sure the input file follows the specified format for a successful run of the program.
+## Note
+
+Make sure the input file follows the specified format for a successful run of the program.
 
 ## Author
+
 Prepared by: Mostafa Faghani
 
 Enjoy using the User Distance Calculator!
