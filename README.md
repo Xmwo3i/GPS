@@ -2,11 +2,11 @@
 
 This program calculates the distance between a reference user and other users based on their geographical positions (latitude, longitude, and altitude). It then identifies the closest user to the reference user.
 
-# Outline
-## Input
-## Output
-## How to use
-## Author 
+## Outline
+# Input
+# Output
+# How to use
+# Author 
 
 
 ## Input
