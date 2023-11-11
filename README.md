@@ -63,4 +63,4 @@ Make sure the input file follows the specified format for a successful run of th
 
 Prepared by: Mostafa Faghani
 
-Enjoy using the User Distance Calculator!
+Enjoy using the GPS!
